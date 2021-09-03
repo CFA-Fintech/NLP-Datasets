@@ -1,4 +1,4 @@
-# nlp-datasets
+# NLP-Datasets
 Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP). Most stuff here is just raw unstructured text data, if you are looking for annotated corpora or Treebanks refer to the sources at the bottom.
 
 ## Datasets (English, multilang)
@@ -27,7 +27,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [DBpedia](http://aws.amazon.com/de/datasets/dbpedia-3-5-1/?tag=datasets%23keywords%23encyclopedic): a community effort to extract structured information from Wikipedia and to make this information available on the Web (17 GB)
 
 *   [Death Row](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html): last words of every inmate executed since 1984 online (HTML table)
-*   
+
 *   [Diplomacy](https://go.umd.edu/diplomacy_data): 17,000 conversational messages from 12 games of Diplomacy, annotated for truthfulness (3 MB)
 
 *   [Elsevier OA CC-BY Corpus](https://data.mendeley.com/datasets/zm33cdndxs/2): 40k (40,001) Open Access full-text scientific articles with complete metadata include subject classifications (963Mb)
